@@ -5,10 +5,11 @@ This was the first ML project that I had the opportunity to do in a team. Since 
 
 ### THE MAIN OBJECTIVE OF PROJECT
 
-- We have to analyze the housing market and evaluate the factors that affect pricing.  We have received information on real estate sales from 2006 to 2010, as well as a large number of independent variables that we have to study.
+- Conducted an analysis of the housing market from information on real estate sales from 2006 to 2010, then evaluate the factors that affect pricing and find the best ML model which can predict price on house.
 
 ### TEAMWORK
 - We used MIRO (Online Whiteboard for Visual Collaboration) and JIRA (Atlassian Software) for more efficient and well-coordinated teamwork.
+- Worked 21 hours a week as a data scientist within a team of 4 to produce visualizations of data using Matplotlib and Seaborn, data cleaning and fine-tune hyperparameters of ML models.
 
 ### LIBRARIES
 We used out of the most popular Python packages in Data Science and ML as: 
